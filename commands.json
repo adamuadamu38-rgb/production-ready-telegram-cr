@@ -1,0 +1,38 @@
+[
+  {
+    "name": "addcoin",
+    "file": "src/commands/addcoin.js"
+  },
+  {
+    "name": "alert",
+    "file": "src/commands/alert.js"
+  },
+  {
+    "name": "alerts",
+    "file": "src/commands/alerts.js"
+  },
+  {
+    "name": "help",
+    "file": "src/commands/help.js"
+  },
+  {
+    "name": "price",
+    "file": "src/commands/price.js"
+  },
+  {
+    "name": "removealert",
+    "file": "src/commands/removealert.js"
+  },
+  {
+    "name": "removecoin",
+    "file": "src/commands/removecoin.js"
+  },
+  {
+    "name": "start",
+    "file": "src/commands/start.js"
+  },
+  {
+    "name": "watchlist",
+    "file": "src/commands/watchlist.js"
+  }
+]
